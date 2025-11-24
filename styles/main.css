@@ -1,0 +1,14 @@
+h1 {
+    color: cadetblue;
+    border: 2cm;
+}
+
+ul {
+    background-color: beige;
+}
+
+ol {
+    font-size: large;
+    margin: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
